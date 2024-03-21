@@ -1,5 +1,10 @@
 {
   "name": "social-links-profile",
+  "description": "In this small project, you'll build out your social link-sharing profile. You can even personalize it and use it to share all your social profiles!",
+  "author": {
+    "name": "Om Preetham Bandi",
+    "url": "https://ompreetham.com"
+  },
   "private": true,
   "version": "0.0.0",
   "type": "module",
