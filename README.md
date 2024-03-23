@@ -1,6 +1,6 @@
 # Social Links Profile using Vite React
 
-This project is a simple React application bootstrapped with Vite for rapid development. It provides a way to showcase your social media profiles in a clean and organized manner.
+This project is a simple React application bootstrapped with Vite for rapid development. It provides a way to showcase your social media profiles in a clean and organized manner. A challenge by Frontend Mentor.
 
 ## Features
 

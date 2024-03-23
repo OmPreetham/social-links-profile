@@ -1,7 +1,11 @@
-import Profile from './components/social/Profile'
+import SocialLinksProfile from './components/SocialLinksProfile'
 
 function App() {
-  return <Profile />
+  return (
+    <main>
+      <SocialLinksProfile />
+    </main>
+  )
 }
 
 export default App
