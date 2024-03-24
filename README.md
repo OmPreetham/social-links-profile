@@ -2,6 +2,8 @@
 
 This project is a simple React application bootstrapped with Vite for rapid development. It provides a way to showcase your social media profiles in a clean and organized manner. A challenge by Frontend Mentor.
 
+![Preview](/public/preview.png)
+
 ## Features
 
 - Displays links to various social media profiles.
