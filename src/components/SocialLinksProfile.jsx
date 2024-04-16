@@ -4,7 +4,7 @@ const SocialLinksProfile = () => {
       <article>
         <div>
           <img
-            src="/images/avatar-jessica.jpeg"
+            src="images/avatar-jessica.jpeg"
             alt="Protrait of Jessica Randall"
           />
         </div>
